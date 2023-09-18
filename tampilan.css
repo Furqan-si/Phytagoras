@@ -1,0 +1,23 @@
+body {
+    font-family: Comic Sans MS, sans-serif;
+    background-color: #48fa42;
+    text-align: center;
+}
+
+.calculator {
+    background-color: #fff;
+    font-family:Comic Sans MS, Sans-Serif;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+   padding: 77px;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+input {
+  color:#0007d3;
+    width: 100%;
+    background-color: #fff30c;
+    padding: 10px;
+    margin-bottom: 10px;
+}
