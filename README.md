@@ -1,0 +1,2 @@
+# Phytagoras
+menghitung panjang sisi
